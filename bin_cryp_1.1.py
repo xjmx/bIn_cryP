@@ -1,10 +1,6 @@
 #Python 2.7
 # -*- coding: utf-8 -*-
 
-#Big letters are not included
-#"UA" "UE" "OE" are not included
-#many special symbols are not included
-
 import sys
 import random
 
