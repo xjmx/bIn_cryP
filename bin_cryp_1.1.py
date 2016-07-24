@@ -127,8 +127,8 @@ def info():
 	or a "1" should take and on the other hand the convertation lists, which define the value of an
 	Letter (an integer).
 	
-	If you want to recommend something or want to give feedback please write me an Email!!!
-	email@gmail.com
+	If you want to recommend something or want to give me feedback please contact me on GitHub!
+	---xjmx---
 	'''
 	
 #Main
